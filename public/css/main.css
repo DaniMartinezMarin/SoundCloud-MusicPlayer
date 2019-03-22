@@ -1,0 +1,19 @@
+#caratula{
+    min-height: 25vw;
+    width: 25vw;
+    background-color: rgba(119,136,153, 0.6);
+}
+
+.img-caratula{
+    min-height: 25vw;
+}
+
+.songs{
+    margin-left: 5%;
+    margin-top: 2%;
+}
+
+.btn{
+    margin-left: 5%;
+    margin-top: 3%;
+}
